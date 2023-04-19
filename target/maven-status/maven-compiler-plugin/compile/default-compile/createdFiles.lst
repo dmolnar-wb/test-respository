@@ -1,0 +1,16 @@
+com/spring/core/MainResources.class
+com/spring/scopes/User.class
+com/spring/qualifiers/SpringQualifiersApplication.class
+com/spring/qualifiers/FooFormatter.class
+com/spring/core/model/User.class
+com/spring/qualifiers/Formatter.class
+com/spring/scopes/ScopesConfig.class
+com/spring/core/service/Service.class
+com/spring/core/service/interfaces/IValidator.class
+com/spring/qualifiers/BarFormatter.class
+com/spring/qualifiers/QualifiersConfig.class
+com/spring/core/Main.class
+com/spring/core/service/Validator.class
+com/spring/scopes/SpringScopesApplication.class
+com/spring/core/config/ApplicationConfig.class
+com/spring/qualifiers/FooService.class
